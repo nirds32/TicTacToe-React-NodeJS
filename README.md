@@ -1,4 +1,10 @@
 # TicTacToe Game React NodeJS MongoDB
+MongoDB
+Express
+React
+NodeJS
+
+Socket IO - Online chat and online game 
 open in vs code the folder NirTicTacToe
 open 2 terminals:
 1. server folder terminal
